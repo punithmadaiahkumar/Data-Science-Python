@@ -10,3 +10,11 @@
 ### 8. Association Rules
 ### 9. Recommender System
 ### 10. PCA
+### 11. Decision Tree
+### 12. Random Forest
+### 13. KNN
+### 14. Support Vector Machine
+### 15. Neural Networks
+### 
+### 
+### 
