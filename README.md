@@ -15,6 +15,6 @@
 ### 13. KNN
 ### 14. Support Vector Machine
 ### 15. Neural Networks
-### 
-### 
-### 
+### 16. Text Mining
+### 17. Naive Bayes
+### 18. Forecasting
