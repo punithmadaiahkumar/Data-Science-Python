@@ -33,3 +33,15 @@ Taxable.Income : Taxable income is the amount of how much tax an individual owes
 Work Experience : Work experience of an individual person
 Urban : Whether that person belongs to urban area or not
 
+### Required Libraries:
++ pandas
++ numpy
++ matplotlib
++ sklearn
+
+### Pre-Requiremtns:
++ install sklearn
+
+### Methods Used:
++ Decision Tree Classifier
++ Decision Tree Regressor
