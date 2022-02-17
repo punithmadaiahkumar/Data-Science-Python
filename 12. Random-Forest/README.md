@@ -1,7 +1,7 @@
 # Random-Forest
 
-# Company Data
-About the data: 
+## Company Data: 
+Discription about the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
 The attributes are as follows: 
  Sales -- Unit sales (in thousands) at each location
@@ -22,6 +22,17 @@ A cloth manufacturing company is interested to know about the segment or attribu
 Approach - A Random Forest can be built with target variable Sales (we will first convert it in categorical variable) & all other variable will be independent in the analysis.  
 
 
-# Fraud Check
+## Fraud Check
 Use Random Forest to prepare a model on fraud data 
 treating those who have taxable_income <= 30000 as "Risky" and others are "Good"
+
+### Tech Stack:
++ Python
+
+### Libraries used:
++ numpy
++ pandas
++ seaborn
++ matplotlib
++ category_encoders
++ sklearn (model selection kfold, cross_val_score, random forest classifier, decission tree classifier)
