@@ -34,3 +34,13 @@ Type: Type of glass: (class attribute)
 
 # Zoo Data
 Implement a KNN model to classify the animals in to categories
+
+### Tech Stack:
++ Python
+
+### Libraries used:
++ numpy
++ pandas
++ seaborn
++ matplotlib
++ sklearn (OneHotEncoder, ColumnTransformer, train_test_split, Pipeline, MinMaxScaler, KNeighborsClassifier, accuracy_score)
