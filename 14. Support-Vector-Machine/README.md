@@ -33,3 +33,13 @@ capitalloss	-- A decrease in the value of a capital asset
 hoursperweek -- number of hours work per week	
 native -- Native of an individual
 Salary -- salary of an individual
+
+### Tech Stack:
++ Python
+
+### Libraries used:
++ numpy
++ pandas
++ seaborn
++ matplotlib
++ sklearn (MinMaxScaler, train_test_split, SVC, GridSearchCV, classification_report, accuracy_score, confusion_matrix, cross_val_score)
