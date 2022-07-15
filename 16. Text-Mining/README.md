@@ -1,8 +1,8 @@
-# Text-Mining
+# Text-Mining Analysis
 
-ONE:
-1) Perform sentimental analysis on the Elon-musk tweets (Exlon-musk.csv)
+### ONE:
+- Perform sentimental analysis on the Elon-musk tweets (Exlon-musk.csv)
 
-TWO:
-1) Extract reviews of any product from ecommerce website like amazon
-2) Perform emotion mining
+###TWO:
+- Extract reviews of any product from ecommerce website like amazon
+- Perform emotion mining
